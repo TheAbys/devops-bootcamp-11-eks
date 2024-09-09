@@ -1,4 +1,6 @@
-# 1 - COntainer Services on AWS
+[Notes overview](https://github.com/TheAbys/devops-bootcamp-certification-project/blob/master/README.md)
+
+# 1 - Container Services on AWS
 
 There are multiple solutions to handle containers in the cloud, self-managed, semi-managed and fully-managed.
 
